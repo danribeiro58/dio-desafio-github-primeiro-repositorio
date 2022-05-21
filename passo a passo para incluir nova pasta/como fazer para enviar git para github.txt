@@ -1,0 +1,6 @@
+1 criar uma pasta
+2 git status ( vai informar que houve modificação)
+3 git add . ( foi para stage)
+4 git commit -m " dizer o que fiz "
+5 git push origin main
+
